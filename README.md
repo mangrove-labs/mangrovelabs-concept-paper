@@ -43,6 +43,22 @@ The concept of a company such as Mangrove Labs isn’t new, but it would be new 
 
 All of the above do consulting, some additionally offer specific services that are open source but offer consulting fees for project hosting and maintenance. They have been a combination of different business models; BetaNYC is a 501(c)3, while DataMade is a for-profit.
 
+### Additional challenges
+
+- The local area is well known in its lack of civic engagement. This has been proved through research papers as well as antidotally.
+- Miami-Dade has a challenging geography, with 34 municipality governments and a large unincorporated municipal service area.
+  - While the concept of civic technology has been emerging through many large cities of the United States, there hasn’t been much movement in improving city services using technology within the smaller municipal areas. 
+  - Miami-Dade County itself, on the other hand, is the largest government in Florida, behind the state itself. The county has data, and pride themselves on service; however internal county IT services can still be more agile. They are around 300 people or so, using multi-million dollar contracts with enterprise solutions which take years of implementation.
+- Other challenges include a relatively nascent, but emerging tech community, with eager residents looking to gain experience in design and development while working on interesting challenges.
+
+## Marketing & Sales
+
+As of Summer 2016, Mangrove Labs is a bootstrapped organization while I drum up additional projects, case studies, and clients to be able to do devote to this work full time.
+
+I will start by reaching out to the many contacts I met as a 2015 Code for America Fellow. I’ll focus on emphasizing that Mangrove has been created as a consultancy, highlighting previous and current projects such as The Miami-Dade CUTGroup, as well as my availability for additional services as noted above.
+
+Some cold calling will most likely be necessary. While there are movements to make Miami better and organizations such as non-profits, Foundations, etc, many of these organizations emphasize community building and programs and may not know how technology be used to compliment their programs or improve community services directly.
+
 ## Organization and Management
 
 Ernie Hsiung is founder of Mangrove Labs. He is a front-end developer and community organizer with interests in actual and virtual communities.
