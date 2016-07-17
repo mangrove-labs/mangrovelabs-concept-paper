@@ -1,9 +1,11 @@
 # Mangrove Labs Concept Paper
 "Let’s make a better Miami through tech and data."
 
-Mangrove Labs will be a for-profit company providing tech and consultancy solutions using open data benefiting the diverse residents of Miami-Dade County, at the intersection of technology, education, citizenship and government.
+*The Issue:* While there are digital agencies in Miami, we believe there is a lack of agencies focusing on improving our community and environment through technology and design.
 
-## Service & Product Line
+*A solution:* Mangrove Labs will be a for-profit company providing solutions using open data benefiting the diverse residents of Miami-Dade County, at the intersection of open-source technology, education, citizenship and government.
+
+## Full Service & Product Line
 
 ### Available Services
 
