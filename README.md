@@ -20,7 +20,7 @@
   - Training on data and visualization tools
 
 - Develop a fee-for-service technology development department. Specific duties includes:
-  - Mobile Application and Website development, maintenance and hosting
+  - Mobile Application, Interactive voice response (IVR) and Website development, maintenance and hosting
   - Localization and maintenance, and hosting of existing open source projects
   - Releasing, preparing and vetting open data
   - Online maps and visualizations
