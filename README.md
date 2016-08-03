@@ -3,7 +3,7 @@
 
 **The Issue:** While there are digital agencies in Miami, we believe there is a lack of agencies focusing on improving our community and environment through technology and design.
 
-**A solution:** Mangrove Labs will be a for-profit company providing solutions using open data benefiting the diverse residents of Miami-Dade County, at the intersection of open-source technology, education, citizenship and government.
+**A solution:** Mangrove Labs will be a for-profit company providing solutions using open data benefiting the diverse residents of Miami-Dade County, at the intersection of open-source technology, education, citizenship and government. We will offer products and services 
 
 ## Full Service & Product Line
 
