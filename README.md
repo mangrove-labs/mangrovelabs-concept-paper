@@ -45,6 +45,12 @@ The concept of a company such as Mangrove Labs isn’t new, but it would be new 
 
 All of the above do consulting, some additionally offer specific services that are open source but offer consulting fees for project hosting and maintenance. They have been a combination of different business models; BetaNYC is a 501(c)3, while DataMade is a for-profit.
 
+DataMade also created a 2013 list which includes [a list of civic tech consultancy groups](https://datamade.us/blog/making-a-living-with-civic-tech): Azavea, Civic Agency, Conveyal, Department of Better Technology, Development Seed, MySociety, NuCivic. As Derek Eder describes it, these companies:
+
+> Sell customized versions of your open source project(s). The code remains open; the value is in the custom deployment. Also, sometimes build completely customized open source projects based on your open source portfolio. 
+
+The biggest difference is Mangrove can also sell customized versions of _other_ open source projects.
+
 ### Additional challenges
 
 - The local area is well known in its lack of civic engagement. This has been proved through research papers as well as antidotally.
