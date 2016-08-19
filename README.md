@@ -1,9 +1,15 @@
 # Mangrove Labs Concept Paper
 "Let’s make a better Miami through tech and data."
 
+**Mission Statement:** Mangrove Labs provides website, mobile and app development, design services and consulting for organizations at the intersection of open-source technology, education, citizenship, and government who seek to raise the quality of life and services for the citizens of Miami-Dade County and beyond. 
+
 **The Issue:** While there are digital agencies in Miami, we believe there is a lack of agencies focusing on improving our community and environment through technology and design.
 
-**Mission Statement:** Mangrove Labs aims to champion the use of open-source technology in providing and enhancing municipal services and programs for community benefit. In an area not known for civic engagement nor technical acumen, we aim to surprise and delight the diverse communities of South Florida in engaging with municipalities and organizations for social good. Our goal is a staff and client list that accurately represents the people of Miami-Dade County, annual profitability and maintaining our sense of humor.
+**Our Solution:** In a region not generally known for civic engagement, we seek to design and build projects and services that surprise and delight residents; all the while they engage with municipalities and organizations for social good. 
+
+We're especially excited to partner with local organizations improving lives around us: governments, journalists, academic institutions, nonprofits, and foundations.
+
+Our goal is a staff and client base accurately representing the diverse population around us, projects and programs bettering our community, and maintaining our sense of humor.
 
 ## Full Service & Product Line
 
